@@ -6,4 +6,4 @@ A terminal based applications to create profesional README.md files. It is a nod
 
 ## Video
 
-<a src="https://youtu.be/-HrdywApn7s">Youtube Link</a>
+https://youtu.be/-HrdywApn7s
